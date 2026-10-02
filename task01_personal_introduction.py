@@ -9,13 +9,8 @@ fav_lang = input("What is your favorite programming language: ")
 goal = input("What is your goal in programming: \n")
 
 print("**************************")
-print("==========================")
-print("STUDENT INTRODUCTION")
-print("==========================")
+print("    STUDENT INTRODUCTION")
 print("**************************")
-
-
-
 
 print("My name is " + name + ".")
 print("I am " + age + " years old.")
