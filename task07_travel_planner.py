@@ -10,5 +10,5 @@ print("Destination: ", destination)
 print("Distance: ", distance)
 print("Speed: ", speed)
 print(f"Estimated Travel Time: {time} hours")
-
+print(f"Estimated Travel Time in minutes: {time * 60} minutes")
 
